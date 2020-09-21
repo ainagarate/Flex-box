@@ -1,0 +1,32 @@
+.cabecera{ width: 1200px;
+    background-color: #84bb9c ;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+h1{
+
+    color:white;
+}
+
+a{ 
+    background-color: white;
+    color:#84bb9c;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    
+    
+
+}
+
+.navegador{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: space-evenly;
+
+}

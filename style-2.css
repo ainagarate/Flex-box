@@ -1,0 +1,47 @@
+
+
+
+.cabecera{ background-color: #78aefc;
+
+    width:1000px;
+    height: 100px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+   
+}
+
+.logo{ color: white;
+    margin-left: 20px;
+    align-items: center;
+    text-align: right;
+
+}
+
+.logo h5{ margin-top: 0px;
+
+}
+.logo h1{ margin-bottom: 0px;
+
+}
+
+.menu{
+
+    margin-right: 20px;
+    color: white;
+   
+}
+
+
+
+.menu a{
+
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
